@@ -1,7 +1,7 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/read/wfqcthyhsmkk#8c862f
 
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/9xdnBSv8SzA
 
 
 Project title:
